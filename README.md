@@ -1,4 +1,4 @@
-![logo](https://github.com/SwatiRajShalu/SwatiRajShalu/blob/main/mybanner.png)
+![logo](https://github.com/SwatiRajShalu/SwatiRajShalu/blob/main/mybanner2.png)
 <h1 align="center">Hi 👋, I'm Swati Raj Shalu</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 <br>
